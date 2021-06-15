@@ -1,0 +1,5 @@
+Credentials cache: API:95DB9FEA-2F22-4791-95F7-90BDD365ADA8
+        Principal: oavelar@42LISBOA.COM
+
+  Issued                Expires               Principal
+Oct 19 14:56:46 2020  Oct 20 00:56:46 2020  krbtgt/42LISBOA.COM@42LISBOA.COM
