@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T16:13:29.556Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" version="19.0.0" etag="DSYAsIB1N37n7BbJlGr2" type="github"><diagram id="0OSAvkF88sN00W8TTrGu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-27T16:23:02.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="cOPMrzSGgdWM4jr2_Lq-" version="19.0.0" type="github">
+  <diagram id="0OSAvkF88sN00W8TTrGu" name="Page-1">
+    <mxGraphModel dx="1902" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KHn-AQoZCDhrJaQ8co5E-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="130" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KHn-AQoZCDhrJaQ8co5E-4" value="&lt;br&gt;&lt;h2&gt;&lt;span&gt;lptenoffice01&lt;/span&gt;&lt;/h2&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KHn-AQoZCDhrJaQ8co5E-8">
+          <mxGeometry y="50" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KHn-AQoZCDhrJaQ8co5E-7" value="&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-GB;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Production&lt;br/&gt;Scanning&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KHn-AQoZCDhrJaQ8co5E-8">
+          <mxGeometry x="25" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KHn-AQoZCDhrJaQ8co5E-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="520" y="120" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KHn-AQoZCDhrJaQ8co5E-6" value="&lt;h2&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;lptenoffice02&lt;/span&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KHn-AQoZCDhrJaQ8co5E-10">
+          <mxGeometry y="50" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KHn-AQoZCDhrJaQ8co5E-9" value="&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&lt;br/&gt;Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-GB;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Reporting&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KHn-AQoZCDhrJaQ8co5E-10">
+          <mxGeometry x="26" y="10" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KHn-AQoZCDhrJaQ8co5E-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="330" y="430" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KHn-AQoZCDhrJaQ8co5E-3" value="&lt;h2&gt;&lt;br&gt;&lt;span&gt;lttnsc01&lt;/span&gt;&lt;/h2&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KHn-AQoZCDhrJaQ8co5E-12">
+          <mxGeometry y="50" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KHn-AQoZCDhrJaQ8co5E-11" value="Test server&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KHn-AQoZCDhrJaQ8co5E-12">
+          <mxGeometry x="24" y="10" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
